@@ -124,8 +124,7 @@ h3 {
   h2.jobHeading,
   h3.jobHeading {
     margin-bottom: 2rem;
-    padding: 0.2rem 1rem;
-    background: rgba(42, 97, 92, 0.5); }
+    padding: 0.2rem 1rem; }
 
 a {
   color: #ffffff;
@@ -137,6 +136,15 @@ header {
   width: 100%; }
 
 main .icons {
+  margin-top: 1rem; }
+
+main .postContent {
+  margin-left: 5%;
+  width: 500px;
+  border: 1px solid black;
+  height: 600px;
+  background: rgba(39, 90, 85, 0.6);
+  padding: 50px;
   margin-top: 1rem; }
 
 main a {
