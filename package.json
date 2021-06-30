@@ -1,7 +1,6 @@
 {
   "name": "porti",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive"
@@ -9,6 +8,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-sass": "^4.9.2"
-  }
+    "node-sass": "^4.9.2",
+    "nodemon": "^2.0.8"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/induc1ng/portifolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/induc1ng/portifolio/issues"
+  },
+  "homepage": "https://github.com/induc1ng/portifolio#readme",
+  "description": ""
 }
